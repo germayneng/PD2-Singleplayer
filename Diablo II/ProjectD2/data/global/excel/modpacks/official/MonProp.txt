@@ -53,3 +53,4 @@ stygianDungeon	death-skill	100	363	100	1																										death-skill	10
 zharminibossbaboonprop	aura	100	108	15	15	move1			20	20																					aura	100	108	15	15	move1			20	20																					aura	100	108	15	15	move1			20	20																					0
 warlordminibossdefilerprop	aura	100	122	8	8	cast2	100		30	30	swing2	100		30	30																aura	100	122	8	8	cast2	100		30	30	swing2	100		30	30																aura	100	122	8	8	cast2	100		30	30	swing2	100		30	30																0
 zharminibossbighead	aura	100	115	15	15																										aura	100	115	15	15																										aura	100	115	15	15																										0
+BastionBoss	aura	100	115	15	15																										aura	100	115	15	15																										aura	100	416	3	3																										0
