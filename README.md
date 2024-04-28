@@ -15,7 +15,7 @@ If you're just looking for PlugY without the item pack, characters, or modpacks,
 
 When new seasons/patches are released, you'll need to run PD2 via the launcher to update the game. Running the game via the launcher will also update your lootfilter.
 
-The **PlugY&nbsp;(modded)** file is a shortcut for using [modpacks](https://github.com/BetweenWalls/PD2-Singleplayer/tree/main#modpacks) and is preconfigured to use the default English installation directory. If your **Diablo&nbsp;II** directory is *not* **C:\Program&nbsp;Files&nbsp;(x86)\Diablo&nbsp;II** then it won't function until you modify its "Target" and "Start&nbsp;in" properties.
+The **PlugY&nbsp;(testing)** file is a shortcut for using [modpacks](https://github.com/BetweenWalls/PD2-Singleplayer/tree/main#modpacks) and is preconfigured to use the default English installation directory. If your **Diablo&nbsp;II** directory is *not* **C:\Program&nbsp;Files&nbsp;(x86)\Diablo&nbsp;II** then it won't function until you modify its "Target" and "Start&nbsp;in" properties.
 
 ### Troubleshooting
 Setup:
@@ -111,7 +111,7 @@ These steps have already been done for this collection - the game's text files a
 ## Modpacks
 [Modpacks](https://github.com/BetweenWalls/PD2-Singleplayer/tree/main/Diablo%20II/ProjectD2/data/global/excel/modpacks) are custom game modifications. They can alter the game in a variety of ways and have different purposes, such as streamlining testing or improving normal gameplay. Some modpacks may be minimalist (only adding minor quality-of-life features and fixing bugs) while others may be major overhauls with significant balance changes or new features.
 
-The ["testing"](https://github.com/BetweenWalls/PD2-Singleplayer/tree/main/Diablo%20II/ProjectD2/data/global/excel/modpacks/testing) modpack is setup by default to help with acquiring specific items for more thorough testing. It is not designed for normal gameplay - when used alongside the item pack, it trivializes item acquisition. If your Diablo II installation is in **C:\Program&nbsp;Files&nbsp;(x86)** (the default location) you'll only need to launch the **PlugY.exe&nbsp;(modded)** shortcut to get access to several useful cube recipes from the "testing" modpack:
+The ["testing"](https://github.com/BetweenWalls/PD2-Singleplayer/tree/main/Diablo%20II/ProjectD2/data/global/excel/modpacks/testing) modpack is setup by default to help with acquiring specific items for more thorough testing. It is not designed for normal gameplay - when used alongside the item pack, it trivializes item acquisition. If your Diablo II installation is in **C:\Program&nbsp;Files&nbsp;(x86)** (the default location) you'll only need to launch the **PlugY.exe&nbsp;(testing)** shortcut to get access to several useful cube recipes from the "testing" modpack:
 * reroll any non-crafted item with Horadrim Orb
 * duplicate most items with Key, duplicate jewels with Jewel Fragments
 * use crafted items as ingredients for crafting recipes

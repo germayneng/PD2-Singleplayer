@@ -1,6 +1,6 @@
 ### vanilla_droprates
 
-* Updated: Season 8 (no patches)
+* Updated: Season 9 (patch 2)
 * Author: BetweenWalls
 
 Changes all NoDrop rates to vanilla values (TreasureClassEx.txt)

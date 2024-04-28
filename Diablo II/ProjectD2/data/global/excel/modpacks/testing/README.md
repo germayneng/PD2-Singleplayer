@@ -1,6 +1,6 @@
 ### Testing
 
-* Updated: Season 8 (patch 1)
+* Updated: Season 9 (patch 2)
 * Author: BetweenWalls
 
 Includes several developer-style cube recipes to assist in testing:
