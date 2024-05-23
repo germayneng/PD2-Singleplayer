@@ -465,6 +465,7 @@ ItemDisplay[ETH MAG]:		%BLUE%%NAME%%CONTINUE%
 ItemDisplay[ETH RARE]:		%YELLOW%%NAME%%CONTINUE%
 ItemDisplay[ETH CRAFT]:		%ORANGE%%NAME%%CONTINUE%
 ItemDisplay[ETH UNI]:		%GOLD%%NAME%%CONTINUE%
+ItemDisplay[ETH SET]:		%GREEN%%NAME%%CONTINUE%
 ItemDisplay[ETH !NMAG]:		%GRAY%eth %NAME%%CONTINUE%		// labels eth magic+ items
 ItemDisplay[!NMAG SOCK>0]:	%NAME% %GRAY%[%SOCKETS%]%CONTINUE%	// adds sockets (regular items are handled in their own category)
 
